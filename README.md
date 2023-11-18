@@ -10,9 +10,10 @@ Choisir un nouveau traitement médical (Antibiotiques, aménagement etc...) que 
 
 ## Méthodes statistiques utilisées :
 En fonction des données on peut se ramener à changer de méthodes ou à en rajouter.
-       ¤  problème de décision
-       ¤ modélisation bayesienne
-       ¤ test
+
+       ¤  problème de décision.
+       ¤ modélisation bayesienne.
+       ¤ test.
        ¤ Analyse de données multiples.
       
 ## Ressources : 
